@@ -1,2 +1,2 @@
 data_clean/
-workspaces/mlp_data/curves.pkl
+workspaces/mlp_data/*.pkl
